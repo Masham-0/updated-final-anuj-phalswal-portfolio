@@ -86,9 +86,9 @@ export default function Home() {
 
             {/* Hero Image */}
             <div className="order-1 lg:order-2">
-              <div className="relative aspect-[3/4] rounded-2xl overflow-hidden shadow-2xl">
+              <div className="relative aspect-video rounded-2xl overflow-hidden shadow-2xl">
                 <Image
-                  src="/upload/GSR_7862.jpg"
+                  src="/upload/GSR_7862.JPG"
                   alt="Anuj Phalswal - President's Awardee receiving award"
                   fill
                   className="object-cover"
