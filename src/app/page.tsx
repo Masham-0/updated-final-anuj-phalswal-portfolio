@@ -91,7 +91,8 @@ export default function Home() {
                   src="/upload/GSR_7862.JPG"
                   alt="Anuj Phalswal - President's Awardee receiving award"
                   fill
-                  className="object-cover"
+                  className="object-cover object-center"
+                  style={{ objectPosition: "center 35%" }}
                   priority
                 />
               </div>
