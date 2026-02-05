@@ -86,13 +86,13 @@ export default function Home() {
 
             {/* Hero Image */}
             <div className="order-1 lg:order-2">
-              <div className="relative aspect-video rounded-2xl overflow-hidden shadow-2xl">
+              <div className="relative aspect-video rounded-1xl.5 overflow-hidden shadow-2xl">
                 <Image
                   src="/upload/GSR_7862.JPG"
                   alt="Anuj Phalswal - President's Awardee receiving award"
                   fill
                   className="object-cover object-center"
-                  style={{ objectPosition: "center 35%" }}
+                  // style={{ objectPosition: "center 35%" }}
                   priority
                 />
               </div>
